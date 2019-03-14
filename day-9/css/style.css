@@ -1,0 +1,9 @@
+.carousel-item-padding{
+    padding: 100px 250px;
+    color: #ffc107;
+}
+.add-section{
+    background: url("../images/logo.jpg");
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
